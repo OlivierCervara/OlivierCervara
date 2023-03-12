@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olivier Cervara</h1>
 <h3 align="center">A passionate frontend developer from South of France</h3>
 
-- 🔭 I’m currently working on [Piiquante]([https://github.com/OlivierCervara/Piiquante])
+- 🔭 I’m currently working on [Piiquante]([https://github.com/OlivierCervara/Piiquante.git])
 
 - 🌱 I’m currently learning **JavaScript**
 
