@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olivier Cervara</h1>
-<h3 align="center">A passionate frontend developer from South of France</h3>
+<h3 align="center">A passionate developer from South of France</h3>
 
 - 🔭 I’m currently working on [Piiquante]([https://github.com/OlivierCervara/Piiquante.git])
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OlivierCervara?tab=repositories](https://github.com/OlivierCervara?tab=repositories)
 
